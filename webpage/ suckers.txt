@@ -1,0 +1,9 @@
+Kimberly Todd;MC;7328904328904902;mastercard  
+Marty Stepp;MC;4444100020003000;visa 
+
+Ivan;Choose your Section;;MasterCard
+Ivan;Choose your Section;;MasterCard
+Ivan;MA;464841231685;MasterCard
+;MA;;Visa
+Ivan;MA;464841231685;MasterCard
+Ivan;MA;464841231685;Visa
